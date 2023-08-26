@@ -37,7 +37,7 @@ hr {
     display: none;
 }
 
-a {
+button {
     cursor: pointer;
     height: 180px;
     display: flex;
